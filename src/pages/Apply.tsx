@@ -188,7 +188,7 @@ const Apply: React.FC = () => {
                       <FormItem>
                         <FormLabel>Full Name</FormLabel>
                         <FormControl>
-                          <Input placeholder="satish" {...field} />
+                          <Input placeholder="name" {...field} />
                         </FormControl>
                         <FormMessage />
                       </FormItem>

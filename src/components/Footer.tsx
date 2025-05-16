@@ -84,7 +84,7 @@ const Footer: React.FC = () => {
       </div>
 
       <div className="border-t border-white/20 mt-10 pt-6 text-center text-sm text-white/50">
-        © 2025 CSES. All rights reserved. | Designed by G.V.V.Satyanarayana
+        © 2025 CSES. All rights reserved. | Designed by satish
       </div>
     </footer>
   );
